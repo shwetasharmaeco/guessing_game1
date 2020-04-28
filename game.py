@@ -1,3 +1,3 @@
 """A number-guessing game."""
-
-print ("Hi Shweta")
+name = input("What is your name > ").title()
+print ("Hi" + " " + name)
